@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React,Nextjs,Javascript vainilla,Zebra enteprise browser**
 
-- 📫 How to reach me **felipe@trilord.live.com**
+- 📫 How to reach me **felipe@trilord.live**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
